@@ -1,4 +1,4 @@
-# Assignement Repository for Chitkara Univerity B.Tech (CSE) Batch 2019-2023
+# Assignements for Chitkara Univerity B.Tech (CSE) Batch 2019-2023
 This is the Assignment Index page Submited for Internet Programing
 ## Table of Contect
 1. [Assignement 1: HTML Table and Form](https://lady-of-code.github.io/chitkara-btech-assignments-html/assignment-1/)
